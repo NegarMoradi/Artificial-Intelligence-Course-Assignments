@@ -1,0 +1,21 @@
+[submodule "IntroductionToAI"]
+	path = IntroductionToAI
+	url = https://github.com/NegarMoradi/IntroductionToAI
+[submodule "Search-Algorithm"]
+	path = Search-Algorithm
+	url = https://github.com/NegarMoradi/Search-Algorithm
+[submodule "AIGenetic"]
+	path = AIGenetic
+	url = https://github.com/NegarMoradi/AIGenetic
+[submodule "CommentClassifier-NaiveBayes"]
+	path = CommentClassifier-NaiveBayes
+	url = https://github.com/NegarMoradi/CommentClassifier-NaiveBayes
+[submodule "MachineLearning-AI"]
+	path = MachineLearning-AI
+	url = https://github.com/NegarMoradi/MachineLearning-AI
+[submodule "FeedForwardNeuralNetwork-Implementation"]
+	path = FeedForwardNeuralNetwork-Implementation
+	url = https://github.com/NegarMoradi/FeedForwardNeuralNetwork-Implementation
+[submodule "FeedForwardNN-Classifier-WithTF"]
+	path = FeedForwardNN-Classifier-WithTF
+	url = https://github.com/NegarMoradi/FeedForwardNN-Classifier-WithTF
